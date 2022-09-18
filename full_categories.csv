@@ -1,0 +1,81 @@
+id_in_model,id_in_coco,name,supercategory
+0.0,1.0,person,person
+1.0,2.0,bicycle,vehicle
+2.0,3.0,car,vehicle
+3.0,4.0,motorcycle,vehicle
+4.0,5.0,airplane,vehicle
+5.0,6.0,bus,vehicle
+6.0,7.0,train,vehicle
+7.0,8.0,truck,vehicle
+8.0,9.0,boat,vehicle
+9.0,10.0,traffic light,outdoor
+10.0,11.0,fire hydrant,outdoor
+11.0,13.0,stop sign,outdoor
+12.0,14.0,parking meter,outdoor
+13.0,15.0,bench,outdoor
+14.0,16.0,bird,animal
+15.0,17.0,cat,animal
+16.0,18.0,dog,animal
+17.0,19.0,horse,animal
+18.0,20.0,sheep,animal
+19.0,21.0,cow,animal
+20.0,22.0,elephant,animal
+21.0,23.0,bear,animal
+22.0,24.0,zebra,animal
+23.0,25.0,giraffe,animal
+24.0,27.0,backpack,accessory
+25.0,28.0,umbrella,accessory
+26.0,31.0,handbag,accessory
+27.0,32.0,tie,accessory
+28.0,33.0,suitcase,accessory
+29.0,34.0,frisbee,sports
+30.0,35.0,skis,sports
+31.0,36.0,snowboard,sports
+32.0,37.0,sports ball,sports
+33.0,38.0,kite,sports
+34.0,39.0,baseball bat,sports
+35.0,40.0,baseball glove,sports
+36.0,41.0,skateboard,sports
+37.0,42.0,surfboard,sports
+38.0,43.0,tennis racket,sports
+39.0,44.0,bottle,kitchen
+40.0,46.0,wine glass,kitchen
+41.0,47.0,cup,kitchen
+42.0,48.0,fork,kitchen
+43.0,49.0,knife,kitchen
+44.0,50.0,spoon,kitchen
+45.0,51.0,bowl,kitchen
+46.0,52.0,banana,food
+47.0,53.0,apple,food
+48.0,54.0,sandwich,food
+49.0,55.0,orange,food
+50.0,56.0,broccoli,food
+51.0,57.0,carrot,food
+52.0,58.0,hot dog,food
+53.0,59.0,pizza,food
+54.0,60.0,donut,food
+55.0,61.0,cake,food
+56.0,62.0,chair,furniture
+57.0,63.0,couch,furniture
+58.0,64.0,potted plant,furniture
+59.0,65.0,bed,furniture
+60.0,67.0,dining table,furniture
+61.0,70.0,toilet,furniture
+62.0,72.0,tv,electronic
+63.0,73.0,laptop,electronic
+64.0,74.0,mouse,electronic
+65.0,75.0,remote,electronic
+66.0,76.0,keyboard,electronic
+67.0,77.0,cell phone,electronic
+68.0,78.0,microwave,appliance
+69.0,79.0,oven,appliance
+70.0,80.0,toaster,appliance
+71.0,81.0,sink,appliance
+72.0,82.0,refrigerator,appliance
+73.0,84.0,book,indoor
+74.0,85.0,clock,indoor
+75.0,86.0,vase,indoor
+76.0,87.0,scissors,indoor
+77.0,88.0,teddy bear,indoor
+78.0,89.0,hair drier,indoor
+79.0,90.0,toothbrush,indoor
